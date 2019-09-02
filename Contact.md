@@ -6,5 +6,4 @@ The Fall 2019 TA is Kristina (Tina) Shirk
 
 **Office location:** Nolte 134
 
-**Office hours:** In person or online via video call 
-
+**Office hours:** In person or online via video call
