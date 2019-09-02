@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # git and GitHub
 ## Introduction
@@ -25,4 +25,3 @@ Set up a GitHub account
 5 .Push the local Git repository to GitHub (master) - This is still local to you
 6. Make useful change comments
 7. Gh-pages (though, might want to stop before this)
-
