@@ -12,7 +12,7 @@ published: true
 
 ## Set up a Git / GitHub Repository
 ### Before you begin:
-Download Atom text editor
+-Download Atom text editor
 Download Git
 Download GitHub desktop
 Set up a GitHub account
