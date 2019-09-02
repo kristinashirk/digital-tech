@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-# git and GitHub
 ## Introduction
 **What is Git?** Git is a distributed version-control system (DVCS) for tracking changes in source code during software development.” https://en.wikipedia.org/wiki/Git. “Version control systems keep these revisions straight, storing the modifications in a central repository.” https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/. “Most operations in Git need only local files and resources to operate.” https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F. This makes Git an ideal version control system for small individual projects like those in this course. 
 
