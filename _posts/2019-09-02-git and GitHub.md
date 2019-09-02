@@ -12,10 +12,10 @@ published: true
 
 ## Set up a Git / GitHub Repository
 ### Before you begin:
-- Download Atom text editor
-- Download Git
-- Download GitHub desktop
-- Set up a GitHub account
+* Download Atom text editor
+* Download Git
+* Download GitHub desktop
+* Set up a GitHub account
 
 
 1. Install Git
