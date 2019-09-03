@@ -71,3 +71,4 @@ To commit the changes:
 
 4. To push your repository to your GitHub cloud account, select **Publish repository**.
 ### Publish "Template_Website" on GitHub Pages (gh-pages)
+
