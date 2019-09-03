@@ -12,9 +12,9 @@ published: true
 
 ## Set up a Git / GitHub Repository
 ### Before you begin:
-* Download [Atom text editor] (https://atom.io/).
+* Download [Atom text editor](https://atom.io/).
 *** Atom is a text editor created by the makers of GitHub. This means that Atom will integrate with your git - GitHub Desktop - GitHub Pages environment very well and make editing and publishing your code easy.
-* Download and install [git] (https://git-scm.com/).
+* Download and install [git](https://git-scm.com/).
 *** git will allow you to track changes and manage different versions of your code to your local computer. 
 * Set up a [GitHub account](https://github.com).
 *** We recommend setting up a personal GitHub account so you can continue building an online portfolio beyond your time at the University.
@@ -22,9 +22,9 @@ published: true
 *** This is a desttop version of your online GitHub account. It will allow git, on your local machine, speak with GitHub online. 
 
 ### Clone template website files
-To begin building your website, you will use a very basic template from this GitHub repository: [](https://github.umn.edu/alink/sample-html-site).
+To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
 To get the files on your local computer, you will clone the repository.
-1. Navigate to [](https://github.umn.edu/alink/sample-html-site)
+1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site)
 2. Select **Clone or download**, and choose **download zip**.
 3. Extract the folder in the zip file and place it somewhere you will be able to easily locate in the future.
 4. Rename the folder to "Template_Website." You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
