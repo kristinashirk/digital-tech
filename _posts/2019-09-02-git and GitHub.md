@@ -67,6 +67,7 @@ To commit the changes:
 1. Enter a brief change descripton into the **Summary** field. 
 2. *Optional* Enter a more detailed change description into the **Description** field.
 3. Select **Commit to master**  
-**NOTE**: The "Template_Website" repository is local to you. Other users are unable to access your repository. 
+**NOTE**: The "Template_Website" repository is local to you. Other users are unable to access your repository.  
+
 4. To push your repository to your GitHub cloud account, select **Publish repository**.
 ### Publish "Template_Website" on GitHub Pages (gh-pages)
