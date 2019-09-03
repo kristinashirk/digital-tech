@@ -30,17 +30,17 @@ To get the files on your local computer, you will clone the repository.
 4.Rename the folder to "Template_Website." You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 ### Create local Git repository
 1.Initlize the git repository.
-*** **Windows** Open Command Prompt
-*** a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.
-*** b. Type the command *git init*. Hit the **Enter** key.
-*** **Mac** Open Terminal
-*** a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.
-*** b. Type the command *git init*. Hit the **Enter** 
+	**Windows** Open Command Prompt
+	a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.
+	b. Type the command *git init*. Hit the **Enter** key.
+	**Mac** Open Terminal
+	a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.
+	b. Type the command *git init*. Hit the **Enter** 
 **NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created. 
 2. Add files to the repository.
-*** a. In GitHub Desktop, select **File > Add Local Repository.**
-*** b. Select **Choose** and navigate to "Template_Website" on your computer.
-*** c. Select **Add Repository**.
+	a. In GitHub Desktop, select **File > Add Local Repository.**
+	b. Select **Choose** and navigate to "Template_Website" on your computer.
+	c. Select **Add Repository**.
 
 ### Push the local Git repository to GitHub (master) - This is still local to you
 ### Make useful change comments
