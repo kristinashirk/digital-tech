@@ -24,14 +24,14 @@ published: true
 ### Clone template website files
 To begin building your website, you will use a very basic template from this GitHub repository: [](https://github.umn.edu/alink/sample-html-site).
 To get the files on your local computer, you will clone the repository.
-1.Navigate to [](https://github.umn.edu/alink/sample-html-site)
-2.Select **Clone or download**, and choose **download zip**.
-3.Extract the folder in the zip file and place it somewhere you will be able to easily locate in the future.
-4.Rename the folder to "Template_Website." You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
+1. Navigate to [](https://github.umn.edu/alink/sample-html-site)
+2. Select **Clone or download**, and choose **download zip**.
+3. Extract the folder in the zip file and place it somewhere you will be able to easily locate in the future.
+4. Rename the folder to "Template_Website." You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 
 ### Create local Git repository
 1. Initlize the git repository.  
-	**For Windows** 
+	**For Windows**  
     a. Open Command Prompt  
     b. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.  
     c. Type the command *git init*. Hit the **Enter** key.  
