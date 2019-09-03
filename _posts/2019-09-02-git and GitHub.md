@@ -36,12 +36,16 @@ To get the files on your local computer, you will clone the repository.
 	**Mac** Open Terminal
 	a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.
 	b. Type the command *git init*. Hit the **Enter** 
-**NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created. 
-2. Add files to the repository.
-	a. In GitHub Desktop, select **File > Add Local Repository.**
-	b. Select **Choose** and navigate to "Template_Website" on your computer.
-	c. Select **Add Repository**.
+**NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
 
+2. Add files to the repository.  
+
+	a. In GitHub Desktop, select **File > Add Local Repository.**  
+    
+	b. Select **Choose** and navigate to "Template_Website" on your computer.  
+    
+	c. Select **Add Repository**.  
+    
 ### Push the local Git repository to GitHub (master) - This is still local to you
 ### Make useful change comments
 ### Gh-pages (though, might want to stop before this)
