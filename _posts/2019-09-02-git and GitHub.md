@@ -12,14 +12,14 @@ published: true
 
 ## Set up a Git / GitHub Repository
 ### Before you begin:
-* Download [Atom text editor](https://atom.io/).
-*** Atom is a text editor created by the makers of GitHub. This means that Atom will integrate with your git - GitHub Desktop - GitHub Pages environment very well and make editing and publishing your code easy.
-* Download and install [git](https://git-scm.com/).
-*** git will allow you to track changes and manage different versions of your code to your local computer. 
-* Set up a [GitHub account](https://github.com).
-*** We recommend setting up a personal GitHub account so you can continue building an online portfolio beyond your time at the University.
-* Download and install [GitHub desktop](https://desktop.github.com/).
-*** This is a desttop version of your online GitHub account. It will allow git, on your local machine, speak with GitHub online. 
+* Download [Atom text editor](https://atom.io/).  
+	Atom is a text editor created by the makers of GitHub. This means that Atom will integrate with your git - GitHub Desktop - GitHub Pages environment very well and make editing and publishing your code easy.
+* Download and install [git](https://git-scm.com/).  
+	git will allow you to track changes and manage different versions of your code to your local computer. 
+* Set up a [GitHub account](https://github.com).  
+	We recommend setting up a personal GitHub account so you can continue building an online portfolio beyond your time at the University.
+* Download and install [GitHub desktop](https://desktop.github.com/).  
+	This is a desttop version of your online GitHub account. It will allow git, on your local machine, speak with GitHub online. 
 
 ### Clone template website files
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
