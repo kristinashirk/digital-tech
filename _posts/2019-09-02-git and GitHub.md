@@ -31,12 +31,14 @@ To get the files on your local computer, you will clone the repository.
 
 ### Create local Git repository
 1. Initlize the git repository.  
-	**Windows** Open Command Prompt  
-    a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.  
-    b. Type the command *git init*. Hit the **Enter** key.  
-    **Mac** Open Terminal  
-    a. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.  
-    b. Type the command *git init*. Hit the **Enter**  
+	**For Windows** 
+    a. Open Command Prompt  
+    b. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.  
+    c. Type the command *git init*. Hit the **Enter** key.  
+    **For Mac**  
+    a. Open Terminal  
+    b. Enter the file path to "Template_Website" on your computer. Hit the **Enter** key.  
+    c. Type the command *git init*. Hit the **Enter**  
     
 **NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
 
