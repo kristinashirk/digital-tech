@@ -30,7 +30,7 @@ To get the files on your local computer, you will clone the repository.
 4.Rename the folder to "Template_Website." You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 
 ### Create local Git repository
-1.Initlize the git repository.  
+1. Initlize the git repository.  
 
 	**Windows** Open Command Prompt  
     
