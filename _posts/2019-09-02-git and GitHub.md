@@ -51,9 +51,8 @@ To get the files on your local computer, you will clone the repository.
     `cd ~/Desktop/Folder`  
     c. Hit the **Enter** key.  
     d. Type the command `git init`.  
-    e. Hit the **Enter** key.
-    
-**NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
+    e. Hit the **Enter** key.  
+    **NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
 
 2. Add files to the repository.  
 	a. In GitHub Desktop, select **File > Add Local Repository.**  
