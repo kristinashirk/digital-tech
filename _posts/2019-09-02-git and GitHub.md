@@ -44,7 +44,7 @@ To get the files on your local computer, you will clone the repository.
 	**For Windows**  
     a. Open Command Prompt  
     b. Navigate to "Template_Website" by typing the cd command followed by the file path to the "Template_Website" folder on your desktop. The command should read as follows:  
-    `cd C:\Users\USERNAME\Desktop\Template_Website`
+    `cd C:\Users\USERNAME\Desktop\Template_Website`  
     c. Hit the **Enter** key.  
     d. Type the command `git init`.  
     e. Hit the **Enter** key.  
@@ -52,7 +52,7 @@ To get the files on your local computer, you will clone the repository.
     **For Mac**  
     a. Open Terminal  
     b. Navigate to "Template_Website" by typing the cd command followed by the file path to the "Template_Website" folder on your desktop. The command should read as follows:  
-    `cd ~/Desktop/Folder`
+    `cd ~/Desktop/Folder`  
     c. Hit the **Enter** key.  
     d. Type the command `git init`.  
     e. Hit the **Enter** key.
