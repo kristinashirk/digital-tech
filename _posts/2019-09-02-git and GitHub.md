@@ -84,3 +84,5 @@ To commit the changes:
 **NOTE**: The "Template_Website" repository is local to you. Other users are unable to access your repository.  
 
 4. To push your repository to your GitHub cloud account, select **Publish repository**.
+## Make and commit changes to your repository
+
