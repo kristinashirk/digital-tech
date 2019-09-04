@@ -5,4 +5,4 @@ The following are essential resources for your projects. Be sure to refer to the
 ### git and GitHub
 * [Set up git](https://help.github.com/en/articles/set-up-git)
 * [Become a git Guru](https://www.atlassian.com/git/tutorials)
-* [Launch School git tutorial](https://launchschool.com/books/git/read/introduction)
+* [Launch School git Tutorial](https://launchschool.com/books/git/read/introduction)
