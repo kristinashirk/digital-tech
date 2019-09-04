@@ -33,10 +33,10 @@ To get the files on your local computer, you will clone the repository.
 2. Select **Clone or download**, and choose **download zip**.  
 
 3. Extract the folder in the zip file and place it on your desktop.  
-**NOTE:** You can put the folder elsewhere, but this tutorial will use the Desktop.  
+**NOTE**: You can put the folder elsewhere, but this tutorial will use the Desktop.  
 
 4. Rename the folder to "Template_Website."  
-**NOTE:** You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
+**NOTE**: You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 
 ### Create local Git repository
 1. Initlize the git repository.  
@@ -63,7 +63,7 @@ To get the files on your local computer, you will clone the repository.
     d. Type the command `git init`. 
     
     e. Hit the **Enter** key.  
-    **NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
+    **NOTE**: You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
 
 2. Add files to the repository.  
 	a. In GitHub Desktop, select **File > Add Local Repository.**  
@@ -90,7 +90,7 @@ To commit the changes:
 	a. File > Open Folder, then navigate to "Template_Website" on your desktop.
     
     b. Select **OK**.  
-    **NOTE** Atom does not wrap text bt default, so you will notice your code running out of frame. To turn on test wrapping, **View > Toggle Soft Wrap**. 
+    **NOTE**: Atom does not wrap text bt default, so you will notice your code running out of frame. To turn on test wrapping, **View > Toggle Soft Wrap**. 
     
 2. Replace the `Page title goes Here` text in line 9 with your own page title.
 
