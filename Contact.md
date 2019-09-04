@@ -6,6 +6,6 @@ The Fall 2019 TA is Kristina (Tina) Shirk
 
 **email:** shirk019@umn.edu
 
-**Office location:** Nolte 134
+**Office location:** Nolte 136
 
-**Office hours:** In person or online via video call
+**Office hours:** Monday and Wednesday, 3:30 - 5, or by appointment.
