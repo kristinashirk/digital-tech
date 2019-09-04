@@ -72,7 +72,7 @@ To get the files on your local computer, you will clone the repository.
     
     c. Select **Add Repository**. The "Template_Website" repository will open in GitHub Desktop.  
     
-### Push the local Git repository to GitHub (master)
+### Push the local Git repository to GitHub 
 GitHub Desktop will indicate that there are "2 changed files", referring to the new files we added to the "Template_Website" repository. To complete these change, we will use the **commit** operation. Committing these changes will tell git that you want to adopt the added files into your repository. 
 
 To commit the changes:
@@ -83,5 +83,4 @@ To commit the changes:
 3. Select **Commit to master**  
 **NOTE**: The "Template_Website" repository is local to you. Other users are unable to access your repository.  
 
-4. To push your repository to your GitHub cloud account, select **Publish repository**.  
-
+4. To push your repository to your GitHub cloud account, select **Publish repository**.
