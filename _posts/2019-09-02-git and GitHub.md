@@ -95,6 +95,7 @@ To commit the changes:
     
     d. Close all windows that Atom automatically opened at startup.  
     **NOTE**: You can open different files in your project folder into separate tabs by double clicking the file name in the **Project** side bar.  
+    
     **NOTE**: Atom does not wrap text by default, so you will notice your code running out of frame. To turn on text wrapping, **View > Toggle Soft Wrap**. 
     
 2. Replace the `Page title goes Here` text in line 9 with your own page title.
