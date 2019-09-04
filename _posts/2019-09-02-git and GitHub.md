@@ -28,10 +28,13 @@ published: true
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
 
 To get the files on your local computer, you will clone the repository.
-1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site)
-2. Select **Clone or download**, and choose **download zip**.
+1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site)  
+
+2. Select **Clone or download**, and choose **download zip**.  
+
 3. Extract the folder in the zip file and place it on your desktop.  
 **NOTE:** You can put the folder elsewhere, but this tutorial will use the Desktop.  
+
 4. Rename the folder to "Template_Website."  
 **NOTE:** You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 
@@ -39,24 +42,34 @@ To get the files on your local computer, you will clone the repository.
 1. Initlize the git repository.  
 	**For Windows**  
     a. Open Command Prompt  
+    
     b. Navigate to "Template_Website" by typing the cd command followed by the file path to the "Template_Website" folder on your desktop. The command should read as follows:  
-    `cd C:\Users\USERNAME\Desktop\Template_Website`  
-    c. Hit the **Enter** key.  
+    `cd C:\Users\USERNAME\Desktop\Template_Website`
+    
+    c. Hit the **Enter** key. 
+    
     d. Type the command `git init`.  
+    
     e. Hit the **Enter** key.  
     
     **For Mac**  
     a. Open Terminal  
+    
     b. Navigate to "Template_Website" by typing the cd command followed by the file path to the "Template_Website" folder on your desktop. The command should read as follows:  
-    `cd ~/Desktop/Folder`  
+    `cd ~/Desktop/Folder`
+    
     c. Hit the **Enter** key.  
-    d. Type the command `git init`.  
+    
+    d. Type the command `git init`. 
+    
     e. Hit the **Enter** key.  
     **NOTE:** You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
 
 2. Add files to the repository.  
 	a. In GitHub Desktop, select **File > Add Local Repository.**  
+    
     b. Select **Choose** and navigate to the "Template_Website" folder on your computer.  
+    
     c. Select **Add Repository**. The "Template_Website" repository will open in GitHub Desktop.  
     
 ### Push the local Git repository to GitHub (master)
@@ -64,9 +77,12 @@ GitHub Desktop will indicate that there are "2 changed files", referring to the 
 
 To commit the changes:
 1. Enter a brief change descripton into the **Summary** field. 
+
 2. *Optional*: Enter a more detailed change description into the **Description** field.
+
 3. Select **Commit to master**  
 **NOTE**: The "Template_Website" repository is local to you. Other users are unable to access your repository.  
+
 4. To push your repository to your GitHub cloud account, select **Publish repository**.
 ### Publish "Template_Website" on GitHub Pages (gh-pages)
 
