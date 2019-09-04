@@ -100,7 +100,8 @@ To commit the changes:
 
 5. Save your change by **File > Save**. 
 
-6. Commit the file changes to GitHub with GitHub Desktop.**NOTE**:GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.
+6. Commit the file changes to GitHub with GitHub Desktop.  
+	**NOTE**:GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.
 	a. Enter a brief change summary in the **Summary** field.  
     
     b. *Optional*: Enter a more detailed change description into the **Description** field.  
