@@ -87,18 +87,18 @@ To commit the changes:
 
 ## Make and commit changes to your repository
 1. Open files in Atom  
-	a. File > Open Folder, then navigate to "Template_Website" on your desktop.
+	a. **File > Open Folder**, then navigate to "Template_Website" on your desktop.
     
     b. Select **OK**.  
-    **NOTE**: Atom does not wrap text bt default, so you will notice your code running out of frame. To turn on test wrapping, **View > Toggle Soft Wrap**. 
+    **NOTE**: Atom does not wrap text by default, so you will notice your code running out of frame. To turn on text wrapping, **View > Toggle Soft Wrap**. 
     
 2. Replace the `Page title goes Here` text in line 9 with your own page title.
 
-3. Save your change by **File > Save**.
+3. Save your changes.
 
-4. Replace the `Section 1` test in line 20 with your own section title.
+4. Replace the `Section 1` text in line 20 with your own section title.
 
-5. Save your change by **File > Save**. 
+5. Save your changes. 
 
 6. Commit the file changes to GitHub with GitHub Desktop.  
 	**NOTE**: GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.  
