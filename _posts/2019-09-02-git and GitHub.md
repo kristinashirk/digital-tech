@@ -19,10 +19,10 @@ published: true
     git will allow you to track changes and manage different versions of your code to your local computer. 
 
 * Set up a [GitHub account](https://github.com).  
-    We recommend setting up a personal GitHub account so you can continue building an online portfolio beyond your time at the University.
+   GitHub is a cloud-based repository hoster for git. We recommend setting up a personal GitHub account so you can continue building an online portfolio beyond your time at the University.
 
 * Download and install [GitHub desktop](https://desktop.github.com/).  
-    This is a desttop version of your online GitHub account. It will allow git, on your local machine, speak with GitHub online. 
+    GitHub Desktop is an accessible user interface for git, so you don't have to use the command line to manage your remote repository on GitHub.  
 
 ### Clone template website files
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
