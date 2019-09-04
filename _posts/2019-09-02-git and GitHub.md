@@ -2,15 +2,15 @@
 published: true
 ---
 ## Introduction
-**What is Git?** Git is a distributed version-control system (DVCS) for tracking changes in source code during software development.” *[Wikipedia](https://en.wikipedia.org/wiki/Git).* Version control systems like git track changes made to files by "storing the modifications in a central repository.” *[howtogeek](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/).* git can work with local files and is an ideal version control system for small individual projects like those in this course. 
+**What is git?** git is a distributed version-control system (DVCS) for tracking changes in source code during software development.” *[Wikipedia](https://en.wikipedia.org/wiki/Git).* Version control systems like git track changes made to files by "storing the modifications in a central repository.” *[howtogeek](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/).* git can work with local files and is an ideal version control system for small individual projects like those in this course. 
 
-**What is GitHub?** “GitHub is a git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.” *[techcrunch](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway)*
+**What is GitHub?** “GitHub is a git repository hosting service, but it adds many of its own features. While git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.” *[techcrunch](https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway)*
 
 **What is a repository?** “A repository (usually abbreviated to “repo”) is a location where all the files for a particular project are stored. Each project has its own repo, and you can access it with a unique URL.” *[howtogeek](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/).* 
 
 **Why should you care?** git and GitHub will allow you to create and share your content, while also keeping track of any changes that you make to your content as you work. This is particularly useful when coding a project, as you may need to backtrack to find and resolve issues in your code. 
 
-## Set up a Git / GitHub Repository
+## Set up a git / GitHub Repository
 ### Before you begin:
 * Download [Atom text editor](https://atom.io/).  
     Atom is a text editor created by the makers of GitHub. This means that Atom will integrate with your git - GitHub Desktop - GitHub Pages environment very well and make editing and publishing your code easy.
@@ -112,5 +112,3 @@ To commit the changes:
     d. Select **Push origin** to push the file changes to your GitHub cloud account.
 
 7. Preview your simple website by double clicking the index.html file on your desktop.
-
-
