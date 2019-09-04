@@ -86,4 +86,12 @@ To commit the changes:
 4. To push your repository to your GitHub cloud account, select **Publish repository**.
 
 ## Make and commit changes to your repository
+1. Open files in Atom
+	a. File > Open Folder, then navigate to "Template_Website" on your desktop.
+    
+    b. Select **OK**.  
+    **NOTE** Atom does not wrap text bt default, so you will notice your code running out of frame. To turn on test wrapping, **View > Toggle Soft Wrap**. 
+    
+2. 
+
 
