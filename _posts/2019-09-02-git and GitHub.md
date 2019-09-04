@@ -92,6 +92,21 @@ To commit the changes:
     b. Select **OK**.  
     **NOTE** Atom does not wrap text bt default, so you will notice your code running out of frame. To turn on test wrapping, **View > Toggle Soft Wrap**. 
     
-2. 
+2. Replace the `Page title goes Here` text in line 9 with your own page title.
+
+3. Save your change by **File > Save**.
+
+4. Replace the `Section 1` test in line 20 with your own section title.
+
+5. Save your change by **File > Save**. 
+
+6. Commit the file changes to GitHub with GitHub Desktop. 
+**NOTE**:GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.
+	a. Enter a brief change summary in the **Summary** field.
+    b. *Optional*: Enter a more detailed change description into the **Description** field.
+    c. Select **Commit to master**.  
+    d. Select **Push origin** to push the file changes to your GitHub cloud account.
+
+7. Preview your simple website by double clicking the index.html file on your desktop.
 
 
