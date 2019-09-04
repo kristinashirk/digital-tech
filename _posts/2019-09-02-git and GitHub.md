@@ -87,20 +87,23 @@ To commit the changes:
 
 ## Make and commit changes to your repository
 1. Open files in Atom  
-	a. **File > Open Folder**, then navigate to "Template_Website" on your desktop.
+	a. **File > Add Project Folder**, then navigate to "Template_Website" on your desktop.
     
     b. Select **OK**.  
+    
+    c. Select **Add this window and discard state**.  
+    
+    d. Close all windows that Atom automatically opened at startup.  
+    **NOTE**: You can open different files in your project folder into separate tabs by double clicking the file name in the **Project** side bar. 
     **NOTE**: Atom does not wrap text by default, so you will notice your code running out of frame. To turn on text wrapping, **View > Toggle Soft Wrap**. 
     
 2. Replace the `Page title goes Here` text in line 9 with your own page title.
 
-3. Save your changes.
+3. Replace the `Section 1` text in line 20 with your own section title.
 
-4. Replace the `Section 1` text in line 20 with your own section title.
+4. Save your changes. 
 
-5. Save your changes. 
-
-6. Commit the file changes to GitHub with GitHub Desktop.  
+5. Commit the file changes to GitHub with GitHub Desktop.  
 	**NOTE**: GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.  
     
     a. Enter a brief change summary in the **Summary** field.  
@@ -111,4 +114,4 @@ To commit the changes:
     
     d. Select **Push origin** to push the file changes to your GitHub cloud account.
 
-7. Preview your simple website by double clicking the index.html file on your desktop.
+6. Preview your simple website by double clicking the index.html file on your desktop.
