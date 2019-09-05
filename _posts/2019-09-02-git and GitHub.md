@@ -86,7 +86,7 @@ To commit the changes:
 
 4. To push your repository to your GitHub cloud account, select **Publish repository**.
 
-## Make and commit changes to your repository
+### Make and commit changes to your repository
 1. Open files in Atom  
 	a. **File > Add Project Folder**, then navigate to "Template_Website" on your desktop.
     
