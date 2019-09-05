@@ -23,7 +23,8 @@ published: true
 
 * Download and install [GitHub desktop](https://desktop.github.com/).  
     GitHub Desktop is an accessible user interface for git, so you don't have to use the command line to manage your remote repository on GitHub.  
-
+### Video Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRNDIvX41eU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Clone template website files
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
 
