@@ -11,7 +11,8 @@ published: true
 **Why should you care?** git and GitHub will allow you to create and share your content, while also keeping track of any changes that you make to your content as you work. This is particularly useful when coding a project, as you may need to backtrack to find and resolve issues in your code. 
 
 ## Set up a git / GitHub Repository
-### Before you begin:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRNDIvX41eU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Before you begin
 * Download [Atom text editor](https://atom.io/).  
     Atom is a text editor created by the makers of GitHub. This means that Atom will integrate with your git - GitHub Desktop - GitHub Pages environment very well and make editing and publishing your code easy.
 
@@ -23,8 +24,6 @@ published: true
 
 * Download and install [GitHub desktop](https://desktop.github.com/).  
     GitHub Desktop is an accessible user interface for git, so you don't have to use the command line to manage your remote repository on GitHub.  
-### Video Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MRNDIvX41eU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Clone template website files
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
 
