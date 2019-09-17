@@ -1,0 +1,128 @@
+---
+published: false
+---
+## HTML
+ HTML is everywhere, and is becoming an essential skill in the age of Web 2.0. It is also a great introduction to structured authoring, which, as technical writers, will be your bread and butter. It is also a great stepping stone for learning programming languages line Python, C#, and so on. You learn to make your content modular, to chunk it for ease of reading and reuse, that you need to consider inheritance when pulling all of the pieces together into a page. These are all essential skills for a technical writer, or programmer, front end developer, or any career that involves structured authoring or coding. 
+
+There are an overwhelming amount of resources on the internet to learn HTML and web development. This article is designed to help you get started, and direct you to effective resources to aid you with your website projects.
+
+### GitHub Pages
+Video of instructions for setting up a gh-pages branch to publish HTML pages with GitHub Pages.
+Also showing how to create and publish additional HTML pages to add content to your website. 
+
+### HTML Foundations
+Every HTML page you create for this course will need the following code to begin and end each page, so please copy and paste this block of code every time you create a fresh HTML file:
+
+```html
+<!doctype html>
+
+<head>
+  <title>TITLE GOES HERE</title>
+  <link rel="stylesheet" type="text/css" href="CECT.css">
+</head>
+
+<body>
+    WEBSITE BODY CONTENT GOES HERE
+</body>
+
+</html>
+```
+
+This block begins with a declaration that the file you are creating is an HTML file, so the computer knows what it is reading when it parses the file. 
+`<!doctype html>`
+
+Then you are state information about the website as a whole. You should input the title of your website within the `<title>` tags. 
+
+ ```html
+<title>TITLE GOES HERE</title>
+```
+  
+This title will appear in the tabs of your internet browser: 
+```html
+<title>Writing with Digital Technologies</title>
+```
+![HTML Tab Title Example]({{site.baseurl}}/img/HTML_Title_Tabs.png)
+
+Then you link your external CSS stylesheet, which details the look and feel of your website. 
+`<link rel="stylesheet" type="text/css" href="CECT.css">`
+
+Then you need to close the `<head>` tag with 
+`</head>`. You must always close your tags in HTML. Otherwise a computer will not know where to stop reading a line and will assume that everything after `<head>` belongs in the head of your website, and will never appear on screen. 
+
+```html
+<head>
+   ...
+</head>
+```
+
+I recommend, whenever you add a new tag, to close it out, then input the content between the tags. For example, if you are adding a paragraph `<p>`, immediately type out the closing tag `</p>` before adding your paragraph text. 
+
+Content within the `<body> </body>` tags will appear on screen and make up your webpages. 
+
+### CSS
+CSS  is a rule-based language, in which you define the rules, to specify styles that will be applied to your HTML document. CSS converts this:
+
+To this:
+
+For a better understanding of how CSS operates under the hood, I recommend reading this [CSS overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)from Mozilla.
+
+Mozilla also has a great [CSS tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) that you may find useful for your website project.
+
+My main piece of advice for CSS is to, as much as possible, leave styling to CSS. Make your stylesheet thorough, and continue to add style definitions as you implement new elements in your HTML. Try to avoid inline styles for the sake of maintenance and consistency throughout your site.
+
+### Structuring Your Code
+When working in your authoring environment (Atom or similar) it is best practice to create a visual hierarchy by indenting lines. Here’s an example of what I mean:
+
+```html
+<div class="container">
+  <div class="column left">
+    <a href="#">
+<button class="button-red">Register for classes</button>
+</a>
+    <div class="importantlinks">
+      <h3>Important links</h3>
+      <ul>
+        <li><a href="#">Link 1</a></li>
+        <li><a href="#">Link 2</a></li>
+        <li><a href="#">Link 3</a></li>
+        <li><a href="#">Link 4</a></li>
+      </ul>
+</div>
+  </div>
+</div>
+```
+
+Using the visual space of your authoring environment will help you organize and navigate your code. It is easy to see the relationships between the elements in the block of code above because I visually emphasized their hierarchical relationships. 
+
+### Linking
+Links are fragile. A broken link is a huge usability and accessibility concern. Test your links frequently to ensure that everything is still functional. 
+
+Common causes of broken links include:
+* Changing the linked file name
+* Moving the linked file (thus changing the file path)
+* Link rot (when linking to external sites. See the [Wikipedia](https://en.wikipedia.org/wiki/Link_rot) article for more information.)
+
+### Navigation
+Website navigation reflects the underlying structure of the website. If the website is constructed properly, the navigation elements will be effective and easy to use. The complexity of the site’s navigation is "ultimately determined by the site hierarchy" [(Lin, 2017)](https://www.uxbooth.com/articles/the-rules-for-modern-navigation/). Ideally, you want to create an information structure with a flat hierarchy containing relatively few layers, to make navigation quicker and "provide a clear, simple path to all the web pages from anywhere on the website" [(Lin, 2017)](https://www.uxbooth.com/articles/the-rules-for-modern-navigation/).
+
+![Flat Navigation Hierarchy]({{site.baseurl}}/img/Flat_Hierarchy.jpg)
+
+### Images 
+How to implement images in site (linking, sizing, etc.)
+Resources for images to use in project sites
+
+### File organization
+Keep your files in a safe and stable location on your computer (somewhere where you will not move them from once you tell git where the files are). If you move these files, git will not be able to find them and your GitHub Pages site will not work.
+
+### HTML Resources
+The following is a list of resources that I rely on when building an HTML website from scratch:
+* [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp) - W3schools provides great examples of HTML and CSS and help you create specific components of your website, like a navigation bar. w3schools is most useful when you already know what you want to do, and are looking for instruction on how to do that thing. Otherise, the lessons tend to lack context and can be confusing. 
+* [https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)- The Mozilla Developer Network has a lot of great informaiton about web development, and has a ton of tutorials and instructional articles to help you build your website. Much like w3schools, the Mozilla Developer Newtork is most effective when you already know what you are looking for.
+* [https://www.codecademy.com/catalog/language/html-css](https://www.codecademy.com/catalog/language/html-css) - When you do not know exactly what you are looking for, Code Academy is a great place to start. Code Academy has great tutorials for all sorts of programming and markup languages. Their basic HTML and CSS tutorials are free. They also provided guided practice activities that are very helpful when you do not know where to start. 
+* [https://www.khanacademy.org/computing/computer-programming/html-css](https://www.khanacademy.org/computing/computer-programming/html-css) - Kahn Academy also has free HTML and CSS courses that are a great place to start when first learning HTML, or if you need a refresher. Kahn Academy tends to give more background information, so you  have a better understanding of what is going on behind the scenes. 
+* [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool) - This resource helps you choose colors to use for your website, and gives you the hexadecimal value for those colors that you can use in your CSS stylesheet. 
+* [https://validator.w3.org/](https://validator.w3.org/) - This resource validates your HTML code, checking that it will function properly. Validate your code often so you can catch issues early. I tend to validate my code after implementing a lot of changes or adding new content. 
+* [http://www.simplehtmlguide.com/cheatsheet.php](http://www.simplehtmlguide.com/cheatsheet.php) - This resource is a detailed cheatsheet for HTML tags. 
+* [http://www.simplehtmlguide.com/csscheatsheet.php](http://www.simplehtmlguide.com/csscheatsheet.php) - This resource is a detailed cheatsheet for CSS elements. 
+* [https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf) - CSS cheatcheet
+* [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS cheatsheet
