@@ -99,8 +99,14 @@ Website navigation reflects the underlying structure of the website. If the webs
 ![Flat Navigation Hierarchy]({{site.baseurl}}/img/Flat_Hierarchy.jpg)
 
 ### Images 
-How to implement images in site (linking, sizing, etc.)
-Resources for images to use in project sites
+When possible, make your images flexible. See this [Stack Overflow post](https://stackoverflow.com/questions/4684304/how-can-i-resize-an-image-dynamically-with-css-as-the-browser-width-height-chang) about creating flexible images using CSS. 
+
+When finding images to use on your site, please be sure to use images or icons with Creative Commons licenses. I recommend using the following sources for images:
+* [flikr Creative Commons](https://www.flickr.com/creativecommons/) for photos. 
+* [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) from Wikipedia for more Creative Commons media. 
+* [The Noun Project](https://thenounproject.com/) for icons and vector images.
+* [The University of Minnesota Photoshelter Gallery](https://umn.photoshelter.com/index)  
+	**NOTE:** You can access images with your UMN login credentials.
 
 ### File organization
 Keep your files in a safe and stable location on your computer (somewhere where you will not move them from once you tell git where the files are). If you move these files, git will not be able to find them and your GitHub Pages site will not work.
