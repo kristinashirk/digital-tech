@@ -6,7 +6,17 @@ published: false
 
 There are an overwhelming amount of resources on the internet to learn HTML and web development. This article is designed to help you get started, and direct you to effective resources to aid you with your website projects.
 
-### GitHub Pages
+### Where to Begin  
+Before you dive into creating your site with HTML, take the time to plan out your project.  
+
+First, discuss the goals of your project with your client. Make clear the deliverables expected at the end of your work, and outline project timelines/milestones so you have a plan of action for yourself, and your client has some sense of what you are doing and when to expect things from you.
+Keep in contact with your client throughout the process. Keep them updated on your progress regularly, and send them drafts of your work, whether that be links to your GitHub page, or screen shots of what you have so far.  
+
+Then, sketch your website out on paper. How will it look? Where will things go? Having a picture in mind of what you want your final product to look like will give you a huge advantage when digging into the HTML. It also makes using online resources easier because you already know the kinds of elements that you would like to include in your website.  
+
+Finally, create a wireframe or mockup of your website. This is a great material to share with your client and gives you the opportunity to brainstorm what is working, what is not, what needs to be added to your design, and what might need to be removed. I recommend using [wireframe.cc](https://wireframe.cc/).
+
+### Publish Your Site with GitHub Pages
 Video of instructions for setting up a gh-pages branch to publish HTML pages with GitHub Pages.
 Also showing how to create and publish additional HTML pages to add content to your website. 
 
