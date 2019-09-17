@@ -1,6 +1,9 @@
 ---
 published: false
 ---
+## HTML Authoring Tips
+This article is a series of tips to help you get more comfortable working with HTML.
+
 ### HTML Foundations
 Every HTML page you create for this course will need the following code to begin and end each page, so please copy and paste this block of code every time you create a fresh HTML file:
 
