@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## HTML Authoring Tips
 This article is a series of tips to help you get more comfortable working with HTML.
