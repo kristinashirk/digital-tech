@@ -27,18 +27,26 @@ Video Tutorial
 1. In the Template_Website repository GitHub Desktop, select **Branch > New Branch**.  
 	a. In the Name field, enter “gh-pages”.  
     b. Select Create Branch. In the GitHub Pages dashboard, you will see that your current branch is “gh-pages”.
+
 2. Select Publish branch to push the **gh-pages** branch to GitHub online.
+
 3. Check that the **gh-pages** branch was successfully created by ensuring your **Template_Website** repository has two branches.
+
 4. To view your published website, enter https://pages.github.umn.edu/​username​/Template_Website/ into the address bar of your browser. 
 
 **Create a new HTML file**
 1. In Atom, **File > New File**  
+
 2. Add your HTML content
+
 3. **File > Save**, name your new file “Example.html” and save to the **Template_Website** folder located on your desktop. 
 
 **Push new files and changes to your published website**
 1. Head over to GitHub Desktop. It will recognize that a change has been made to your local git repository.  
+
 2. Commit the changes to the **gh-pages** branch.
+
+3. Select **Push to origin** to send your changes to GitHub online.
 
 Continue using this procedure to add new content and publish changes to your GitHub Pages website. 
 
