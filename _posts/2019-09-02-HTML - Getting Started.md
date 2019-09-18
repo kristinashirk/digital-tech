@@ -28,7 +28,7 @@ Video Tutorial
 	a. In the Name field, enter “gh-pages”.
     b. Select Create Branch. In the GitHub Pages dashboard, you will see that your current branch is “gh-pages”.
 2. Select Publish branch to push the **gh-pages** branch to GitHub online.
-3. Check that the **gh-pages** branch was successfully created by ensuring your Template_Website repository has 2 branches.
+3. Check that the **gh-pages** branch was successfully created by ensuring your **Template_Website** repository has two branches.
 4. To view your published website, enter https://pages.github.umn.edu/​username​/Template_Website/ into the address bar of your browser. 
 
 **Create a new HTML file**
