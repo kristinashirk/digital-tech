@@ -25,7 +25,7 @@ Video Tutorial
 **Create gh-pages branch**
 
 1. In the Template_Website repository GitHub Desktop, select **Branch > New Branch**.  
-	a. In the Name field, enter “gh-pages”.
+	a. In the Name field, enter “gh-pages”.  
     b. Select Create Branch. In the GitHub Pages dashboard, you will see that your current branch is “gh-pages”.
 2. Select Publish branch to push the **gh-pages** branch to GitHub online.
 3. Check that the **gh-pages** branch was successfully created by ensuring your **Template_Website** repository has two branches.
