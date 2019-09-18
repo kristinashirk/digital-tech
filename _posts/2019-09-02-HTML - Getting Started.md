@@ -2,7 +2,7 @@
 published: false
 ---
 ## HTML
- HTML is everywhere, and is becoming an essential skill in the age of Web 2.0. It is also a great introduction to structured authoring, which, as technical writers, will be your bread and butter. Similarly, HTML is a great stepping stone for learning programming languages line Python, C#, and so on. You learn to make your content modular, to chunk it for ease of reading and reuse, that you need to consider inheritance when pulling all of the pieces together into a page. These are all essential skills for a technical writer, or programmer, front end developer, or any career that involves structured authoring or coding. 
+HTML is everywhere, and is becoming an essential skill in the age of Web 2.0. It is also a great introduction to structured authoring, which, as technical writers, will be your bread and butter. Similarly, HTML is a great stepping stone for learning programming languages line Python, C#, and so on. You learn to make your content modular, to chunk it for ease of reading and reuse, that you need to consider inheritance when pulling all of the pieces together into a page. These are all essential skills for a technical writer, or programmer, front end developer, or any career that involves structured authoring or coding. 
 
 There are an overwhelming amount of resources on the internet to learn HTML and web development. This article is designed to help you get started, and direct you to effective resources to aid you with your website projects.
 
@@ -12,7 +12,7 @@ Before you dive into creating your site with HTML, take the time to plan out you
 First, discuss the goals of your project with your client. Make clear the deliverables expected at the end of your work, and outline project timelines/milestones so you have a plan of action for yourself, and your client has some sense of what you are doing and when to expect things from you.
 Keep in contact with your client throughout the process. Keep them updated on your progress regularly, and send them drafts of your work, whether that be links to your GitHub page, or screen shots of what you have so far.  
 
-Then, sketch your website out on paper. How will it look? Where will things go? Having a picture in mind of what you want your final product to look like will give you a huge advantage when digging into the HTML. It also makes using online resources easier because you already know the kinds of elements that you would like to include in your website. Check out [this Speckyboy blog post](https://speckyboy.com/web-mobile-wireframe-sketch-examples/) on hand drawn wireframes for some inspiration.  
+Then, sketch your website out on paper. How will it look? Where will things go? Having a picture in mind of what you want your final product to look like will give you a huge advantage when digging into the HTML. It also makes using online resources easier because you already know the kinds of elements that you would like to include in your website. Check out [this Speckyboy article](https://speckyboy.com/web-mobile-wireframe-sketch-examples/) on hand drawn wireframes for some inspiration.  
 
 Finally, create a wireframe or mockup of your website. This is a great material to share with your client and gives you the opportunity to brainstorm what is working, what is not, what needs to be added to your design, and what might need to be removed. I recommend using [wireframe.cc](https://wireframe.cc/).
 
