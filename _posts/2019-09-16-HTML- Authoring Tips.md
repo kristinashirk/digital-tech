@@ -49,14 +49,12 @@ Then you need to close the `<head>` tag with
 </head>
 ```
 
-I recommend, whenever you add a new tag, to close it out, then input the content between the tags. For example, if you are adding a paragraph `<p>`, immediately type out the closing tag `</p>` before adding your paragraph text. 
+I recommend, whenever you add a new tag, to close it out. Then input the content between the tags. For example, if you are adding a paragraph `<p>`, immediately type out the closing tag `</p>` before adding your paragraph text. 
 
 Content within the `<body> </body>` tags will appear on screen and make up your webpages. 
 
 ### CSS
-CSS  is a rule-based language, in which you define the rules, to specify styles that will be applied to your HTML document. CSS converts this:
-
-To this:
+CSS  is a rule-based language, in which you define the rules, to specify styles that will be applied to your HTML document. 
 
 For a better understanding of how CSS operates under the hood, I recommend reading this [CSS overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)from Mozilla.
 
@@ -113,4 +111,3 @@ When finding images to use on your site, please be sure to use images or icons w
 
 ### File organization
 Keep your files in a safe and stable location on your computer (somewhere where you will not move them from once you tell git where the files are). If you move these files, git will not be able to find them and your GitHub Pages site will not work.
-
