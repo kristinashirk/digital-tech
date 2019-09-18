@@ -56,7 +56,7 @@ Content within the `<body> </body>` tags will appear on screen and make up your 
 ### CSS
 CSS  is a rule-based language, in which you define the rules, to specify styles that will be applied to your HTML document. 
 
-For a better understanding of how CSS operates under the hood, I recommend reading this [CSS overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)from Mozilla.
+For a better understanding of how CSS operates under the hood, I recommend reading this [CSS overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) from Mozilla.
 
 Mozilla also has a great [CSS tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) that you may find useful for your website project.
 
