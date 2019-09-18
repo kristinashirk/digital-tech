@@ -37,9 +37,8 @@ Video Tutorial
 3. **File > Save**, name your new file “Example.html” and save to the **Template_Website** folder located on your desktop. 
 
 **Push new files and changes to your published website**
-1. Head over to GitHub Desktop. It will recognize that a change has been made to your local git repository. 
-2. Commit the changes to the **master** branch. 
-3. Commit the changes to the **gh-pages** branch.
+1. Head over to GitHub Desktop. It will recognize that a change has been made to your local git repository.  
+2. Commit the changes to the **gh-pages** branch.
 
 Continue using this procedure to add new content and publish changes to your GitHub Pages website. 
 
