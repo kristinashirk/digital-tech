@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## HTML
 HTML is everywhere, and is becoming an essential skill in the age of Web 2.0. It is also a great introduction to structured authoring, which, as technical writers, will be your bread and butter. Similarly, HTML is a great stepping stone for learning programming languages line Python, C#, and so on. You learn to make your content modular, to chunk it for ease of reading and reuse, that you need to consider inheritance when pulling all of the pieces together into a page. These are all essential skills for a technical writer, or programmer, front end developer, or any career that involves structured authoring or coding. 
