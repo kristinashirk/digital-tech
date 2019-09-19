@@ -17,10 +17,7 @@ Then, sketch your website out on paper. How will it look? Where will things go? 
 Finally, create a wireframe or mockup of your website. This is a great material to share with your client and gives you the opportunity to brainstorm what is working, what is not, what needs to be added to your design, and what might need to be removed. I recommend using [wireframe.cc](https://wireframe.cc/).
 
 ### Publish Your Site with GitHub Pages
-Video of instructions for setting up a gh-pages branch to publish HTML pages with GitHub Pages.
-Also showing how to create and publish additional HTML pages to add content to your website. 
-
-Video Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bqH2o1ZQBRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Create gh-pages branch**
 
