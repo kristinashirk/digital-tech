@@ -20,4 +20,8 @@ You are now ready to edit and add content to your site. There is no step-by-step
 * [https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf) - CSS cheatcheet
 * [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS cheatsheet
 
-
+### XML Resources
+* [https://www.recordsapi.com/outputexamples.html](https://www.recordsapi.com/outputexamples.html): Examples of XML outputs, demonstrating the potentialities of content marked up with XML.
+* [https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example](https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example): An Example of XML code with the output.
+* [https://www.w3schools.com/XML/default.asp](https://www.w3schools.com/XML/default.asp): w3schools XML tutorial
+* [https://www.w3schools.com/XML/xml_validator.asp](https://www.w3schools.com/XML/xml_validator.asp): XML validator to check that your code is functional.
