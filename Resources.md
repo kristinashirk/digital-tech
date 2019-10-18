@@ -24,3 +24,7 @@ The following are essential resources for your projects. Be sure to refer to the
 * [https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example](https://developer.mozilla.org/en-US/docs/Web/API/XSLTProcessor/Basic_Example): An Example of XML code with the output.
 * [https://www.w3schools.com/XML/default.asp](https://www.w3schools.com/XML/default.asp): w3schools XML tutorial
 * [https://www.w3schools.com/XML/xml_validator.asp](https://www.w3schools.com/XML/xml_validator.asp): XML validator to check that your code is functional.
+
+### DITA Resources
+* [Oxygen's  The DITA Style Guide Best Practices for Authors](https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/#Artefact/Authoring_Concepts/c_Introduction_to_DITA.html)
+* [Oxygen's Resource Library](https://www.oxygenxml.com/doc/versions/21.1/ug-editor/topics/introduction.html)
