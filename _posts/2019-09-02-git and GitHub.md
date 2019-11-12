@@ -29,9 +29,8 @@ published: true
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
 
 To get the files on your local computer, you will clone the repository.
-1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site)  
-
-**NOTE:** You will asked yo log in with your "LDAP login credentials." These are your UMN login username and password.
+1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site) 
+	**NOTE:** You will asked yo log in with your "LDAP login credentials." These are your UMN login username and password.
 
 2. Select **Clone or download**, and choose **download zip**.  
 
