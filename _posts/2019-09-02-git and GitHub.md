@@ -42,13 +42,13 @@ To get the files on your local computer, you will clone the repository.
 **NOTE**: You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 
 ### Create local Git repository
+**WARNING: Follow the file paths listed below exactly. If you navigate to the incorrect location on your computer, you run the risk of removing all of your files from your computer. If you think you have done something wrong, stop immediately and contact your TA or professor.**
+
 1. Initlize the git repository.  
 	**For Windows**  
     a. Open Command Prompt  
     
-  **WARNING: Follow the file paths listed below exactly. If you navigate to the incorrect location on your computer, you run the risk of removing all of your files from your computer. If you think you have done something wrong, stop immediately and contact your TA or professor.**
-  
-   b. Navigate to "Template_Website" by typing the cd command followed by the file path to the "Template_Website" folder on your desktop. The command should read as follows:  
+    b. Navigate to "Template_Website" by typing the cd command followed by the file path to the "Template_Website" folder on your desktop. The command should read as follows:  
     `cd C:\Users\USERNAME\Desktop\Template_Website`
     
     c. Hit the **Enter** key. 
