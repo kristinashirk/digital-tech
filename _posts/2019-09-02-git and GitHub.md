@@ -29,16 +29,16 @@ published: true
 To begin building your website, you will use a very basic template from this GitHub repository:[https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site).
 
 To get the files on your local computer, you will clone the repository.
-1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site)  
-	
-    **NOTE:** You will asked yo log in with your "LDAP login credentials." These are your UMN login username and password.
+1. Navigate to [https://github.umn.edu/alink/sample-html-site](https://github.umn.edu/alink/sample-html-site) **NOTE:** You will asked yo log in with your "LDAP login credentials." These are your UMN login username and password.
 
 2. Select **Clone or download**, and choose **download zip**.  
 
 3. Extract the folder in the zip file and place it on your desktop.  
+
 **NOTE**: You can put the folder elsewhere, but this tutorial will use the Desktop.  
 
 4. Rename the folder to "Template_Website."  
+
 **NOTE**: You can, of course, name this folder whatever you like, but this tutorial will refer to "Template_Website".
 
 ### Create local Git repository
@@ -68,7 +68,8 @@ To get the files on your local computer, you will clone the repository.
     d. Type the command `git init`. 
     
     e. Hit the **Enter** key.  
-    **NOTE**: You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
+   
+   **NOTE**: You will recieve a notice of initilizing an empty repository. The files within the "Template_Website" folder still need to be **added** to the repository you just created.  
 
 2. Add files to the repository.  
 	a. In GitHub Desktop, select **File > Add Local Repository.**  
@@ -99,7 +100,9 @@ To commit the changes:
     c. Select **Add this window and discard state**.  
     
     d. Close all windows that Atom automatically opened at startup.  
+    
     **NOTE**: You can open different files in your project folder into separate tabs by double clicking the file name in the **Project** side bar.  
+    
     
     **NOTE**: Atom does not wrap text by default, so you will notice your code running out of frame. To turn on text wrapping, **View > Toggle Soft Wrap**. 
     
@@ -110,7 +113,8 @@ To commit the changes:
 4. Save your changes. 
 
 5. Commit the file changes to GitHub with GitHub Desktop.  
-	**NOTE**: GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.  
+	
+    **NOTE**: GitHub Desktop will indicate "1 changed file," and highlight the code changes in red.  
     
     a. Enter a brief change summary in the **Summary** field.  
     
