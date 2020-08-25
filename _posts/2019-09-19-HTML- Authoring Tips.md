@@ -25,7 +25,7 @@ Every HTML page you create for this course will need the following code to begin
 This block begins with a declaration that the file you are creating is an HTML file, so the computer knows what it is reading when it parses the file. 
 `<!doctype html>`
 
-Then you are state information about the website as a whole. You should input the title of your website within the `<title>` tags. 
+Then you state information about the website as a whole. You should input the title of your website within the `<title>` tags. 
 
  ```html
 <title>TITLE GOES HERE</title>
